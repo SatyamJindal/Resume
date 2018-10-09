@@ -1,2 +1,2 @@
 # Resume
-My background and skills -- About me
+My background and skills :: About me
